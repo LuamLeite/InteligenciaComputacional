@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541573352 source:c:\users\northernstreamer\dropbox\lista duplamente encadeada circular\listade.c
+	"Listade.h"
+	<stdlib.h>
+	<stdio.h>
+
+1541569910 c:\users\northernstreamer\dropbox\lista duplamente encadeada circular\listade.h
+
+1541573108 source:c:\users\northernstreamer\dropbox\lista duplamente encadeada circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listade.h"
+	<locale.h>
+

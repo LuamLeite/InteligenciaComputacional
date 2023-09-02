@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541396811 source:c:\users\northernstreamer\dropbox\listacircularheterogenea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista_het_estru.h"
+
+1541396461 c:\users\northernstreamer\dropbox\listacircularheterogenea\lista_het_estru.h
+
+1541397588 source:c:\users\northernstreamer\dropbox\listacircularheterogenea\lista_het_estru.c
+	"Lista_het_estru.h"
+	<stdlib.h>
+	<stdio.h>
+

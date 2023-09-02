@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541314232 source:c:\users\northernstreamer\dropbox\lista\lista.c
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1540849638 c:\users\northernstreamer\dropbox\lista\lista.h
+
+1540693343 source:c:\users\northernstreamer\dropbox\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
